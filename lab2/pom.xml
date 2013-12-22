@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.onpu.quality2013</groupId>
-	<artifactId>lab1b</artifactId>
+	<artifactId>lab2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -13,6 +13,13 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
+
+	<scm>
+		<connection>scm:git:https://github.com/bubenstar/lab2.git</connection>
+		<developerConnection>scm:git:git@github.com/bubenstar/lab2.git</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/bubenstar/lab2.git</url>
+	</scm>
 
 	<dependencies>
 		<dependency>
